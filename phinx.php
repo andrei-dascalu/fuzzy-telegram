@@ -1,7 +1,8 @@
 <?php
     return array(
         "paths" => array(
-            "migrations" => "migrations"
+            "migrations" => "migrations",
+            "seeds" => "seeds",
         ),
         "environments" => array(
             "default_migration_table" => "phinxlog",
